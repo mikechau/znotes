@@ -10,3 +10,6 @@
 # rspec failure tracking
 .rspec_status
 spec/output/*
+
+.ruby-version
+.ruby-gemset
