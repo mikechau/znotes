@@ -1,4 +1,7 @@
 require "bundler/setup"
+require "pry"
+require "timecop"
+require "yaml"
 require "znotes"
 
 RSpec.configure do |config|
